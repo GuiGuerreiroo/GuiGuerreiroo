@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiGuerreiroo&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2f81f7&line=2f81f7&point=ffffff" alt="Contribution activity graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGuerreiroo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Most used languages" />
 
 </div>
 
@@ -53,7 +53,6 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-guerreiro-de-oliveira)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:guilherme060607@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/GuiGuerreiroo)
 
 <div align="center">
   <br/>
