@@ -51,7 +51,7 @@
 <!-- =========================  CONTACT  ========================= -->
 ## 🌐 Contato <span><em>/ Contact</em></span>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guilherme-guerreiro-de-oliveira)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:guilherme060607@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/GuiGuerreiroo)
 
