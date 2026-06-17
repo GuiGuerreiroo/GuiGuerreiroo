@@ -6,27 +6,21 @@
 <!-- =========================  ABOUT  ========================= -->
 ## Bem-vindo(a) ao meu GitHub 👋 <span><em>Welcome to my GitHub</em></span>
 
-<img align="right" height="150px" width="150px" src="https://avatars.githubusercontent.com/u/155542954?v=4" alt="Guilherme Guerreiro" />
-
 <p align="left">
   Me chamo <b>Guilherme Guerreiro de Oliveira</b>, sou de São Paulo 🇧🇷 e atuo como desenvolvedor focado em backend e cloud.<br/>
   <em>My name is Guilherme Guerreiro de Oliveira, I'm from São Paulo, Brazil, and I work as a developer focused on backend and cloud.</em>
 </p>
 
 <p align="left">
-  💼 <b>Atualmente | <em>Currently</em>:</b> Desenvolvedor Backend &amp; Cloud | <em>Backend &amp; Cloud Developer</em>.<br/>
+  💼 <b>Atualmente | <em>Currently</em>:</b> Estudante no Instituto Mauá de Tecnologia &amp; focado em Cloud | <em>Student at Instituto Mauá de Tecnologia &amp; focused on Cloud</em>.<br/>
 </p>
 
 <p align="left">
-  🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> AWS, arquitetura de software e sistemas distribuídos | <em>AWS, software architecture and distributed systems</em>.<br/>
+  🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> AWS, arquitetura de software e Machine Learning | <em>AWS, software architecture and Machine Learning</em>.<br/>
 </p>
 
 <p align="left">
   💬 <b>Pergunte-me sobre | <em>Ask me about</em>:</b> Java, Python, SQL, TypeScript.<br/>
-</p>
-
-<p align="left">
-  ⚡ <b>Curiosidade | <em>Fun fact</em>:</b> Transformo café ☕ em software confiável | <em>I turn coffee into reliable software</em>.
 </p>
 
 <!-- =========================  TECH  ========================= -->
@@ -38,14 +32,6 @@
 ## 📊 Estatísticas <span><em>/ GitHub Stats</em></span>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GuiGuerreiroo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiGuerreiroo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGuerreiroo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top languages" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiGuerreiroo&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2f81f7&line=2f81f7&point=ffffff" alt="Contribution activity graph" />
 
