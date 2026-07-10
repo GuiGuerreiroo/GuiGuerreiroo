@@ -33,7 +33,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGuerreiroo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=GuiGuerreiroo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiGuerreiroo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Most used languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiGuerreiroo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
